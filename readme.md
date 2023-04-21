@@ -44,7 +44,7 @@
 
 ```
 git clone https://github.com/abhisheksharma1310/daily_journal_ssr
-cd todolist_ssr/
+cd daily_journal_ssr/
 ```
 - Install all packages 
 
